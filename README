@@ -1,0 +1,9 @@
+Connect 4 is a Python game that uses the Curses module to control the display.
+
+There is still some stuff to do in this game but its stable.
+All information in: http://www.diogonuno.com
+
+Currently doesn't run on Windows due to some curses based error (dunno) but runs on linux and mac. 
+It just needs Python Curses Module to run. To play run "python connect4.py" or just run the executable file with ./connect4.py
+
+Copyright (C) 2009 Diogo Nuno
